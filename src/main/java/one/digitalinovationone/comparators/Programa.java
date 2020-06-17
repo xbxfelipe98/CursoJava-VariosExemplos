@@ -26,7 +26,15 @@ public class Programa
         System.out.println(carros);
 
 
-        Collections.sort(carros); //Precisa estar implements Comparable
+        Collections.sort(carros); //Precisa estar implements Comparable[
+
+
+        //chamar outra classe de ordenação
+        // Collections.sort(carros, new classe)
+
+
+
+
 
 
 
